@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epgpainel.ddns.net/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/epg/epgbr.xml,http://epgpainel.ddns.net/epg.xml"
 
 ################# ABERTOS ############################
 
@@ -77,14 +77,11 @@ https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://imgur.com/Ql0xfWW.png" group-title="Filmes e Series", A&E
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series", Space
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Series", Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Series", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series", TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine Brasil TV" tvg-logo="https://imgur.com/lQ31EOI.png" group-title="Filmes e Series", Cine Brasil TV
-https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Series", Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
