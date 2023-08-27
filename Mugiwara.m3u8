@@ -2,6 +2,10 @@
 
 ################# ABERTOS ############################
 
+
+#EXTINF:-1 tvg-id="TV Cultura SD" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="Abertos",TV Cultura
+https://cdn-1.nxplay.com.br/CATVE/index.m3u8
+
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-logo="https://imgur.com/mDzdWDy.png" group-title="Abertos", Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
@@ -16,9 +20,6 @@ https://cdn-1.nxplay.com.br/BAND_HD_PFZ/index.m3u8
 
 #EXTINF:-1 tvg-id="Rede Brasil SD" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="Abertos", Rede Brasil
 https://cdn-1.nxplay.com.br/RBTV_SP/index.m3u8
-
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://imgur.com/3tjNwMF.png" group-title="Abertos", Band Sports
-https://cdn-1.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Abertos", CNN Brasil
 https://cdn-1.nxplay.com.br/CNN_Brazil_TK/index.m3u8
@@ -104,11 +105,14 @@ https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 #EXTINF:-1 tvg-id="Food Network HD" tvg-logo="https://imgur.com/H7W8s8n.png" group-title="Variedades", Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/QxvMU7Y.png" group-title="Variedades", Woohoo
-https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://imgur.com/3tjNwMF.png" group-title="Variedades", Band Sports
+https://cdn-1.nxplay.com.br/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-logo="https://imgur.com/jgvnhMt.png" group-title="Variedades", Fish TV
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/QxvMU7Y.png" group-title="Variedades", Woohoo
+https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Tracebrazuca.br" tvg-logo="https://imgur.com/sXA82GC.png" group-title="Variedades", Trace Brazuca
 https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
