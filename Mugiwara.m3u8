@@ -2,128 +2,128 @@
 
 ################# ABERTOS ############################
 
-#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://imgur.com/mDzdWDy.png" group-title="Abertos", Globo SP
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-logo="https://imgur.com/mDzdWDy.png" group-title="Abertos", Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Sbt" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="Abertos", Sbt
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="Abertos", Sbt
 https://cdn-1.nxplay.com.br/SBT_HD_SIMBA/index.m3u8
 
-#EXTINF:-1 tvg-id="Record TV" tvg-logo="https://imgur.com/HcdW6B4.png" group-title="Abertos", Record TV
+#EXTINF:-1 tvg-id="Record 4K" tvg-logo="https://imgur.com/HcdW6B4.png" group-title="Abertos", Record TV
 https://cdn-1.nxplay.com.br/RECORD_HD_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Band" tvg-logo="https://imgur.com/pgUS4bP.png" group-title="Abertos", Band
+#EXTINF:-1 tvg-id="Band SP HD" tvg-logo="https://imgur.com/pgUS4bP.png" group-title="Abertos", Band
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ/index.m3u8
 
-#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="Abertos", Rede Brasil
+#EXTINF:-1 tvg-id="Rede Brasil SD" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="Abertos", Rede Brasil
 https://cdn-1.nxplay.com.br/RBTV_SP/index.m3u8
 
-#EXTINF:-1 tvg-id="Band Sports" tvg-logo="https://imgur.com/3tjNwMF.png" group-title="Abertos", Band Sports
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://imgur.com/3tjNwMF.png" group-title="Abertos", Band Sports
 https://cdn-1.nxplay.com.br/BAND_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Abertos", CNN Brasil
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Abertos", CNN Brasil
 https://cdn-1.nxplay.com.br/CNN_Brazil_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Band News" tvg-logo="https://imgur.com/cq3bGrW.png" group-title="Abertos", Band News
+#EXTINF:-1 tvg-id="Band News FHD" tvg-logo="https://imgur.com/cq3bGrW.png" group-title="Abertos", Band News
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Record News" tvg-logo="https://imgur.com/pjRMhO7.png" group-title="Abertos", Record News
+#EXTINF:-1 tvg-id="Record News HD" tvg-logo="https://imgur.com/pjRMhO7.png" group-title="Abertos", Record News
 https://cdn-1.nxplay.com.br/RECORD_NEWS_TK/index.m3u8
 
 
 ################# DOCUMENTARIOS ############################
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://imgur.com/P5X5c11.png" group-title="Documentarios", Animal Planet
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://imgur.com/P5X5c11.png" group-title="Documentarios", Animal Planet
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://imgur.com/d95LVtJ.png" group-title="Documentarios", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://imgur.com/d95LVtJ.png" group-title="Documentarios", Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://imgur.com/zurFJbD.png" group-title="Documentarios", Discovery Home & Health
+#EXTINF:-1 tvg-id="Discovery Home Health SD" tvg-logo="https://imgur.com/zurFJbD.png" group-title="Documentarios", Discovery Home & Health
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://imgur.com/NzhDBTe.png" group-title="Documentarios", Discovery ID
+#EXTINF:-1 tvg-id="Investigacao Discovery HD" tvg-logo="https://imgur.com/NzhDBTe.png" group-title="Documentarios", Discovery ID
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://imgur.com/97nLOYF.png" group-title="Documentarios", Discovery Science
+#EXTINF:-1 tvg-id="Discoveryscience.br" tvg-logo="https://imgur.com/97nLOYF.png" group-title="Documentarios", Discovery Science
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://imgur.com/z3TBgGJ.png" group-title="Documentarios", Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="https://imgur.com/z3TBgGJ.png" group-title="Documentarios", Discovery Theater
 https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://imgur.com/EJnztML.png" group-title="Documentarios", Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="https://imgur.com/EJnztML.png" group-title="Documentarios", Discovery Turbo
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://imgur.com/EZETg1B.png" group-title="Documentarios", Discovery World
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://imgur.com/EZETg1B.png" group-title="Documentarios", Discovery World
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="History" tvg-logo="https://imgur.com/jfokzSO.png" group-title="Documentarios", History
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="https://imgur.com/jfokzSO.png" group-title="Documentarios", History Channel
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="History 2" tvg-logo="https://imgur.com/HMGyYHs.png" group-title="Documentarios", History 2
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://imgur.com/HMGyYHs.png" group-title="Documentarios", History 2
 https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Film & Arts" tvg-logo="https://imgur.com/oEBi3hi.png" group-title="Documentarios", Film & Arts
+#EXTINF:-1 tvg-id="Film & Arts.br" tvg-logo="https://imgur.com/oEBi3hi.png" group-title="Documentarios", Film & Arts
 https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
 
 ################# FILMES ############################
 
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://imgur.com/Q0ChOiu.png" group-title="Filmes e Series", AMC
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://imgur.com/Q0ChOiu.png" group-title="Filmes e Series", AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Series", AXN
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Series", AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://imgur.com/Ql0xfWW.png" group-title="Filmes e Series", A&E
+#EXTINF:-1 tvg-id="A&E FHD" tvg-logo="https://imgur.com/Ql0xfWW.png" group-title="Filmes e Series", A&E
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Series", Space
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Series", Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series", TNT
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series", TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Series", Sony Channel
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Series", Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://imgur.com/hlDw5oA.png" group-title="Filmes e Series", Sony Movies
+#EXTINF:-1 tvg-id="Sonymovies.br" tvg-logo="https://imgur.com/hlDw5oA.png" group-title="Filmes e Series", Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 
 ################# VARIEDADES ############################
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://imgur.com/gMas4zR.png" group-title="Variedades", Lifetime
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="https://imgur.com/gMas4zR.png" group-title="Variedades", Lifetime
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="TLC" tvg-logo="https://imgur.com/ky7PZPF.png" group-title="Variedades", TLC
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="https://imgur.com/ky7PZPF.png" group-title="Variedades", TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://imgur.com/HeVgcRG.png" group-title="Variedades", HGTV
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-logo="https://imgur.com/HeVgcRG.png" group-title="Variedades", HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://imgur.com/H7W8s8n.png" group-title="Variedades", Food Network
+#EXTINF:-1 tvg-id="Food Network HD" tvg-logo="https://imgur.com/H7W8s8n.png" group-title="Variedades", Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://imgur.com/QxvMU7Y.png" group-title="Variedades", Woohoo
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/QxvMU7Y.png" group-title="Variedades", Woohoo
 https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://imgur.com/jgvnhMt.png" group-title="Variedades", Fish TV
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-logo="https://imgur.com/jgvnhMt.png" group-title="Variedades", Fish TV
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Trace Brazuca" tvg-logo="https://imgur.com/sXA82GC.png" group-title="Variedades", Trace Brazuca
+#EXTINF:-1 tvg-id="Tracebrazuca.br" tvg-logo="https://imgur.com/sXA82GC.png" group-title="Variedades", Trace Brazuca
 https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
 
 ################# KIDS ############################
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://imgur.com/RQzryGc.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://imgur.com/RQzryGc.png" group-title="Kids", Cartoon Network
 https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://imgur.com/lt4q2sU.png" group-title="Kids", Discovery Kids
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://imgur.com/lt4q2sU.png" group-title="Kids", Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://imgur.com/FkSWlmQ.png" group-title="Kids", Tooncast
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://imgur.com/FkSWlmQ.png" group-title="Kids", Tooncast
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo Kids" tvg-logo="https://imgur.com/2p3oVbw.png" group-title="Kids", ZooMoo Kids
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-logo="https://imgur.com/2p3oVbw.png" group-title="Kids", ZooMoo Kids
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
