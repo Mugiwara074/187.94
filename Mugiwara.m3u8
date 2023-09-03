@@ -66,6 +66,9 @@ https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:-1 tvg-id="Film & Arts.br" tvg-logo="https://imgur.com/oEBi3hi.png" group-title="Documentarios", Film & Arts
 https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="Loupe4K.us" group-title="Documentarios", Loupe 4K (2160p)
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
 
 ################# FILMES ############################
 
@@ -83,6 +86,9 @@ https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series", TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-logo="https://imgur.com/qNrH4d4.png" group-title="Filmes e Series", TNT Séries
+https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Sonychannel.br" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Series", Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
@@ -147,6 +153,9 @@ http://superblazertop.com.br.global.prod.fastly.net/live2/premiere7/play2.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://imgur.com/RQzryGc.png" group-title="Kids", Cartoon Network
 https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://imgur.com/CK19h0M.png" group-title="Kids", Cartoonito
+https://cdn-1.nxplay.com.br/CARTOONITO_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://imgur.com/lt4q2sU.png" group-title="Kids", Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
