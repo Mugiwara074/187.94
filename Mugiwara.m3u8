@@ -18,9 +18,6 @@ https://cdn-1.nxplay.com.br/RECORD_HD_TK/index.m3u8
 #EXTINF:-1 tvg-id="Band SP HD" tvg-logo="https://imgur.com/pgUS4bP.png" group-title="Abertos", Band
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ/index.m3u8
 
-#EXTINF:-1 tvg-id="Rede Brasil SD" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="Abertos", Rede Brasil
-https://cdn-1.nxplay.com.br/RBTV_SP/index.m3u8
-
 #EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Abertos", CNN Brasil
 https://cdn-1.nxplay.com.br/CNN_Brazil_TK/index.m3u8
 
@@ -66,7 +63,7 @@ https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:-1 tvg-id="Film & Arts.br" tvg-logo="https://imgur.com/oEBi3hi.png" group-title="Documentarios", Film & Arts
 https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Loupe4K.us" group-title="Documentarios", Loupe 4K (2160p)
+#EXTINF:-1 tvg-id="Loupe4K.us" group-title="Documentarios", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 
@@ -84,11 +81,17 @@ https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Series", Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://imgur.com/A7hP5LE.png" group-title="Filmes e Series", TCM
+https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
+
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series", TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Tntseries.br" tvg-logo="https://imgur.com/qNrH4d4.png" group-title="Filmes e Series", TNT Séries
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/qNrH4d4.png" group-title="Filmes e Series", TNT Séries
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://imgur.com/liyih3y.png" group-title="Filmes e Series", TNT Novelas
+https://cdn-1.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Sonychannel.br" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Series", Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
@@ -99,14 +102,9 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
 ################# VARIEDADES ############################
 
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="https://imgur.com/gMas4zR.png" group-title="Variedades", Lifetime
-https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Tlc.br" tvg-logo="https://imgur.com/ky7PZPF.png" group-title="Variedades", TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="Hgtv.br" tvg-logo="https://imgur.com/HeVgcRG.png" group-title="Variedades", HGTV
-https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Food Network HD" tvg-logo="https://imgur.com/H7W8s8n.png" group-title="Variedades", Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
@@ -120,8 +118,6 @@ https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/QxvMU7Y.png" group-title="Variedades", Woohoo
 https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Tracebrazuca.br" tvg-logo="https://imgur.com/sXA82GC.png" group-title="Variedades", Trace Brazuca
-https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
 
 ################# KIDS ############################
 
@@ -154,7 +150,7 @@ http://superblazertop.com.br.global.prod.fastly.net/live2/premiere7/play2.m3u8
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://imgur.com/RQzryGc.png" group-title="Kids", Cartoon Network
 https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://imgur.com/CK19h0M.png" group-title="Kids", Cartoonito
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://imgur.com/CK19h0M.png" group-title="Kids", Cartoonito
 https://cdn-1.nxplay.com.br/CARTOONITO_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://imgur.com/lt4q2sU.png" group-title="Kids", Discovery Kids
