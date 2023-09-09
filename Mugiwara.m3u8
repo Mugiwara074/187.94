@@ -69,7 +69,7 @@ https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 tvg-id="H2.br" tvg-logo="https://imgur.com/HMGyYHs.png" group-title="Documentarios", History 2
 https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Loupe4K.us" group-title="Documentarios", Loupe 4K
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="https://imgur.com/wiNY9Sl.png" group-title="Documentarios", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 
@@ -84,6 +84,12 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Series", AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/oYHskNf.png" group-title="Filmes e Series", FX
+http://superblazertop.com.br.global.prod.fastly.net/live/fx/play2.m3u8
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://imgur.com/JsxrbiT.png" group-title="Filmes e Series", Megapix
+http://superblazertop.com.br.global.prod.fastly.net/live/megapix/play2.m3u8
+
 #EXTINF:-1 tvg-id="Sonychannel.br" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Series", Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
@@ -93,7 +99,10 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Series", Space
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://imgur.com/A7hP5LE.png" group-title="Filmes e Series", TCM
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://imgur.com/3rWMFf2.png" group-title="Filmes e Series", Studio Universal
+http://superblazertop.com.br.global.prod.fastly.net/live/universalchannel/play2.m3u8
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://imgur.com/rG54r5V.png" group-title="Filmes e Series", TCM
 https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series", TNT
@@ -118,7 +127,7 @@ https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 #EXTINF:-1 tvg-id="Tlc.br" tvg-logo="https://imgur.com/ky7PZPF.png" group-title="Variedades", TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/QxvMU7Y.png" group-title="Variedades", Woohoo
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/fwj19bE.png" group-title="Variedades", Woohoo
 https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
 
 
@@ -127,20 +136,26 @@ https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
 #EXTINF:-1 tvg-id="Band Sports HD" tvg-logo="https://imgur.com/3tjNwMF.png" group-title="Esportes", Band Sports
 https://cdn-1.nxplay.com.br/BAND_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Esportes", ESPN
-http://superblazertop.com.br.global.prod.fastly.net/live2/espn/play2.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://imgur.com/vmSZ8gY.png" group-title="Esportes", ESPN
+http://191.37.250.169:8805/live/ESPNHD/720p.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Esportes", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://imgur.com/wrf6oxE.png" group-title="Esportes", ESPN 2
 http://superblazertop.com.br.global.prod.fastly.net/live2/espn2/play2.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Esportes", ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://imgur.com/w5RMhJy.png" group-title="Esportes", ESPN 3
 http://superblazertop.com.br.global.prod.fastly.net/live/espn3/play2.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes", ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/Ept1T3w.png" group-title="Esportes", ESPN 4
 http://superblazertop.com.br.global.prod.fastly.net/live2/espn4/play2.m3u8
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/zSSpTqs.png" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/zSSpTqs.png" group-title="Esportes", SporTV
 http://superblazertop.com.br.global.prod.fastly.net/live2/sportv/play2.m3u8
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/scTNSaC.png" group-title="Esportes", SporTV 2
+http://superblazertop.com.br.global.prod.fastly.net/live2/sportv2/play2.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://imgur.com/Sir9l4I.png" group-title="Esportes", SporTV 3
+http://superblazertop.com.br.global.prod.fastly.net/live2/sportv3/play2.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/Fnbl9xm.png" group-title="Esportes",Premiere Clubes
 http://superblazertop.com.br.global.prod.fastly.net/live/premiereclubes/play2.m3u8
