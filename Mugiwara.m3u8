@@ -145,7 +145,7 @@ http://superblazertop.com.br.global.prod.fastly.net/live2/espn2/play2.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://imgur.com/w5RMhJy.png" group-title="Esportes", ESPN 3
 http://superblazertop.com.br.global.prod.fastly.net/live/espn3/play2.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/Ept1T3w.png" group-title="Esportes", ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://imgur.com/Ept1T3w.png" group-title="Esportes", ESPN 4
 http://superblazertop.com.br.global.prod.fastly.net/live2/espn4/play2.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://imgur.com/zSSpTqs.png" group-title="Esportes", SporTV
