@@ -84,7 +84,7 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Series", AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/oYHskNf.png" group-title="Filmes e Series", FX
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/IIfgtZg.png" group-title="Filmes e Series", FX
 http://superblazertop.com.br.global.prod.fastly.net/live/fx/play2.m3u8
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://imgur.com/JsxrbiT.png" group-title="Filmes e Series", Megapix
@@ -123,6 +123,9 @@ https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Food Network HD" tvg-logo="https://imgur.com/H7W8s8n.png" group-title="Variedades", Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Geekdot" tvg-logo="https://imgur.com/96kvfou.png" group-title="Variedades", Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Tlc.br" tvg-logo="https://imgur.com/ky7PZPF.png" group-title="Variedades", TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
