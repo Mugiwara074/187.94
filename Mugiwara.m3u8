@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-id="Band SP HD" tvg-logo="https://imgur.com/pgUS4bP.png" group-title="Abertos", Band
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo TV Santa Cruz HD" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="Abertos", Globo BA
-http://7eaicdn.ddns.net:80/live/2aea1611f92af87e5682a89af358f126/0860253d27e4e96636da/64389
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="Abertos", GLOBO TV BAHIA
+https://meumd.com:443/11990083484/119900/241298
 
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="Abertos", Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
@@ -60,8 +60,8 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="https://imgur.com/EZETg1B.png" group-title="Documentarios", Discovery World
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Film & Arts.br" tvg-logo="https://imgur.com/oEBi3hi.png" group-title="Documentarios", Film&Arts
-https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+##EXTINF:-1 tvg-id="Film & Arts.br" tvg-logo="https://imgur.com/oEBi3hi.png" group-title="Documentarios", Film&Arts
+##https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="https://imgur.com/jfokzSO.png" group-title="Documentarios", History Channel
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
@@ -69,9 +69,8 @@ https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 tvg-id="H2.br" tvg-logo="https://imgur.com/HMGyYHs.png" group-title="Documentarios", History 2
 https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="https://imgur.com/wiNY9Sl.png" group-title="Documentarios", Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="https://imgur.com/AZ0L6e9.png" group-title="Documentarios", NAT GEO
+https://meumd.com:443/11990083484/119900/108961
 
 ################# FILMES ############################
 
@@ -84,10 +83,13 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Series", AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="Star Life HD" tvg-logo="https://imgur.com/EQm4TTu.png" group-title="Filmes e Series", CINE CANAL
+https://meumd.com:443/11990083484/119900/109993
+
 #EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/IIfgtZg.png" group-title="Filmes e Series", FX
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/244
 
-#EXTINF:-1 tvg-id="Gln.br" tvg-logo="https://imgur.com/9dr0gqT.png" group-title="Filmes e Series", Gln TV
+#EXTINF:-1 tvg-id="Gln.br" tvg-logo="https://imgur.com/9dr0gqT.png" group-title="Filmes e Series", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://imgur.com/JsxrbiT.png" group-title="Filmes e Series", Megapix
@@ -103,10 +105,10 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel HD" tvg-logo="https://imgur.com/FygEGJv.png" group-title="Filmes e Series", Star Channel
-http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/281
+https://meumd.com:443/11990083484/119900/142905
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://imgur.com/3rWMFf2.png" group-title="Filmes e Series", Studio Universal
-##http://superblazertop.com.br.global.prod.fastly.net/live/universalchannel/play2.m3u8
+https://meumd.com:443/11990083484/119900/109981
 
 #EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://imgur.com/rG54r5V.png" group-title="Filmes e Series", TCM
 https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
@@ -120,6 +122,8 @@ https://cdn-1.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/qNrH4d4.png" group-title="Filmes e Series", TNT Séries
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="https://imgur.com/ubdABiE.png" group-title="Filmes e Series", USA
+https://meumd.com:443/11990083484/119900/109989
 
 ################# VARIEDADES ############################
 
@@ -173,7 +177,7 @@ http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/172
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/175
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/Fnbl9xm.png" group-title="Esportes",Premiere Clubes
-http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/165
+https://meumd.com:443/11990083484/119900/108942
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/Fnbl9xm.png" group-title="Esportes",Premiere 2
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/150
@@ -204,7 +208,7 @@ https://cdn-1.nxplay.com.br/CARTOONITO_TK/index.m3u8
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-logo="https://imgur.com/lt4q2sU.png" group-title="Kids", Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://imgur.com/iNXtnHM.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://imgur.com/LUNp3DL.png" group-title="Kids",Nickelodeon
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://imgur.com/FkSWlmQ.png" group-title="Kids", Tooncast
