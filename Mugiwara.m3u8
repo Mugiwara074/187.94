@@ -3,10 +3,10 @@
 ################# ABERTOS ############################
 
 #EXTINF:-1 tvg-id="Band SP HD" tvg-logo="https://imgur.com/pgUS4bP.png" group-title="Abertos", Band
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ/index.m3u8
+http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/484
 
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="Abertos", GLOBO TV BAHIA
-https://meumd.com:443/11990083484/119900/241298
+http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/488
 
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="Abertos", Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
@@ -15,7 +15,7 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Record 4K" tvg-logo="https://imgur.com/HcdW6B4.png" group-title="Abertos", Record TV
-https://cdn-1.nxplay.com.br/RECORD_HD_TK/index.m3u8
+http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/520
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="Abertos", SBT
 https://cdn-1.nxplay.com.br/SBT_HD_SIMBA/index.m3u8
@@ -26,13 +26,13 @@ http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/547
 ################# NOTICIAS ############################
 
 #EXTINF:-1 tvg-id="Band News FHD" tvg-logo="https://imgur.com/cq3bGrW.png" group-title="Noticias", Band News
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+https://meumd.com:443/11990083484/119900/108459
 
 #EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Noticias", CNN Brasil
-https://cdn-1.nxplay.com.br/CNN_Brazil_TK/index.m3u8
+https://meumd.com:443/11990083484/119900/108457
 
 #EXTINF:-1 tvg-id="Record News HD" tvg-logo="https://imgur.com/pjRMhO7.png" group-title="Noticias", Record News
-https://cdn-1.nxplay.com.br/RECORD_NEWS_TK/index.m3u8
+https://meumd.com:443/11990083484/119900/236271
 
 ################# DOCUMENTARIOS ############################
 
@@ -64,10 +64,10 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 ##https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="https://imgur.com/jfokzSO.png" group-title="Documentarios", History Channel
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+https://meumd.com:443/11990083484/119900/108410
 
 #EXTINF:-1 tvg-id="H2.br" tvg-logo="https://imgur.com/HMGyYHs.png" group-title="Documentarios", History 2
-https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/815
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="https://imgur.com/AZ0L6e9.png" group-title="Documentarios", NAT GEO
 https://meumd.com:443/11990083484/119900/108961
@@ -81,7 +81,7 @@ https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Series", AXN
-https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+https://meumd.com:443/11990083484/119900/110037
 
 #EXTINF:-1 tvg-id="Star Life HD" tvg-logo="https://imgur.com/EQm4TTu.png" group-title="Filmes e Series", CINE CANAL
 https://meumd.com:443/11990083484/119900/109993
@@ -156,7 +156,7 @@ http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/130
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/129
 
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://imgur.com/w5RMhJy.png" group-title="Esportes", ESPN 3
-http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/126
+https://meumd.com:443/11990083484/119900/189506
 
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://imgur.com/Ept1T3w.png" group-title="Esportes", ESPN 4
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/142
@@ -171,13 +171,13 @@ http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/140
 http://209.222.97.92:16525/
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://imgur.com/scTNSaC.png" group-title="Esportes", SporTV 2
-http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/172
+https://meumd.com:443/11990083484/119900/110275
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://imgur.com/Sir9l4I.png" group-title="Esportes", SporTV 3
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/175
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/Fnbl9xm.png" group-title="Esportes",Premiere Clubes
-https://meumd.com:443/11990083484/119900/108942
+https://meumd.com:443/11990083484/119900/108749
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/Fnbl9xm.png" group-title="Esportes",Premiere 2
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/150
@@ -200,7 +200,7 @@ http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/161
 ################# KIDS ############################
 
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://imgur.com/RQzryGc.png" group-title="Kids", Cartoon Network
-https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+http://178.162.193.239:8080/TouroVod-Ro3K3V16kL/ZKrDxZOyWS/7699
 
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://imgur.com/CK19h0M.png" group-title="Kids", Cartoonito
 https://cdn-1.nxplay.com.br/CARTOONITO_TK/index.m3u8
