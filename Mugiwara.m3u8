@@ -31,6 +31,12 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Noticias",CNN BRASIL
 https://cdn-1.nxplay.com.br/CNN_Brazil_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="CNN En Español" tvg-logo="https://imgur.com/TMQmm6d.png" group-title="Noticias",CNN EN ESPAÑOL
+http://s.pannel.net:80/1963509720/3613405410/1156
+
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-logo="https://imgur.com/rUPKIRh.png" group-title="Noticias",CNN INTERNACIONAL
+http://s.pannel.net:80/1963509720/3613405410/1155
+
 #EXTINF:-1 tvg-id="Record News HD" tvg-logo="https://imgur.com/pjRMhO7.png" group-title="Noticias",RECORD NEWS
 https://cdn-1.nxplay.com.br/RECORD_NEWS_TK/index.m3u8
 
@@ -84,10 +90,10 @@ https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Life HD" tvg-logo="https://imgur.com/EQm4TTu.png" group-title="Filmes e Series",CINE CANAL
-https://meumd.com:443/11990083484/119900/109994
+http://s.pannel.net:80/1963509720/3613405410/128
 
 #EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/IIfgtZg.png" group-title="Filmes e Series",FX
-https://meumd.com:443/11990083484/119900/110024
+http://s.pannel.net:80/1963509720/3613405410/148
 
 #EXTINF:-1 tvg-id="Gln.br" tvg-logo="https://imgur.com/9dr0gqT.png" group-title="Filmes e Series",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
@@ -105,16 +111,16 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/278
 
 #EXTINF:-1 tvg-id="Star Channel HD" tvg-logo="https://imgur.com/FygEGJv.png" group-title="Filmes e Series",STAR CHANNEL
-https://meumd.com:443/11990083484/119900/110005
+http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/281
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://imgur.com/3rWMFf2.png" group-title="Filmes e Series",STUDIO UNIVERSAL
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/289
 
 #EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://imgur.com/rG54r5V.png" group-title="Filmes e Series",TCM
-https://cdn-1.nxplay.com.br/TCM_TK/index.m3u8
+http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/292
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series",TNT
-https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+http://s.pannel.net:80/1963509720/3613405410/401
 
 #EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://imgur.com/liyih3y.png" group-title="Filmes e Series",TNT NOVELAS
 https://cdn-1.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
@@ -123,7 +129,7 @@ https://cdn-1.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.br" tvg-logo="https://imgur.com/ubdABiE.png" group-title="Filmes e Series",USA
-https://meumd.com:443/11990083484/119900/109989
+http://s.pannel.net:80/1963509720/3613405410/363
 
 ################# VARIEDADES ############################
 
@@ -216,3 +222,4 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-logo="https://imgur.com/2p3oVbw.png" group-title="Kids",ZOOMOO KIDS
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
