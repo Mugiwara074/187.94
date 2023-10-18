@@ -80,56 +80,62 @@ http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/87
 
 ################# FILMES ############################
 
-#EXTINF:-1 tvg-id="A&E FHD" tvg-logo="https://imgur.com/Ql0xfWW.png" group-title="Filmes e Series",A&E
+#EXTINF:-1 tvg-id="A&E FHD" tvg-logo="https://imgur.com/Ql0xfWW.png" group-title="Filmes e Séries",A&E
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://imgur.com/Q0ChOiu.png" group-title="Filmes e Series",AMC
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://imgur.com/E8J7Zia.png" group-title="Filmes e Séries",AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Series",AXN
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://imgur.com/QI2nqsm.png" group-title="Filmes e Séries",AXN
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Life HD" tvg-logo="https://imgur.com/EQm4TTu.png" group-title="Filmes e Series",CINE CANAL
+#EXTINF:-1 tvg-id="Star Life HD" tvg-logo="https://imgur.com/EQm4TTu.png" group-title="Filmes e Séries",CINE CANAL
 http://s.pannel.net:80/1963509720/3613405410/128
 
-#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/IIfgtZg.png" group-title="Filmes e Series",FX
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://imgur.com/dDSvtEO.png" group-title="Filmes e Séries",FX
 http://s.pannel.net:80/1963509720/3613405410/148
 
-#EXTINF:-1 tvg-id="Gln.br" tvg-logo="https://imgur.com/9dr0gqT.png" group-title="Filmes e Series",GLN TV
+#EXTINF:-1 tvg-id="Gln.br" tvg-logo="https://imgur.com/9dr0gqT.png" group-title="Filmes e Séries",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://imgur.com/JsxrbiT.png" group-title="Filmes e Series",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://imgur.com/JsxrbiT.png" group-title="Filmes e Séries",MEGAPIX
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/271
 
-#EXTINF:-1 tvg-id="Sonychannel.br" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Series",SONY CHANNEL
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-logo="https://imgur.com/9dZgAuM.png" group-title="Filmes e Séries",SONY CHANNEL
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Sonymovies.br" tvg-logo="https://imgur.com/hlDw5oA.png" group-title="Filmes e Series",SONY MOVIES
+#EXTINF:-1 tvg-id="Sonymovies.br" tvg-logo="https://imgur.com/hlDw5oA.png" group-title="Filmes e Séries",SONY MOVIES
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Series",SPACE
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://imgur.com/mXec2Sx.png" group-title="Filmes e Séries",SPACE
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/278
 
-#EXTINF:-1 tvg-id="Star Channel HD" tvg-logo="https://imgur.com/FygEGJv.png" group-title="Filmes e Series",STAR CHANNEL
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-logo="https://imgur.com/FygEGJv.png" group-title="Filmes e Séries",STAR CHANNEL
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/281
 
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://imgur.com/3rWMFf2.png" group-title="Filmes e Series",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="https://imgur.com/3rWMFf2.png" group-title="Filmes e Séries",STUDIO UNIVERSAL
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/289
 
-#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://imgur.com/rG54r5V.png" group-title="Filmes e Series",TCM
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="https://imgur.com/rG54r5V.png" group-title="Filmes e Séries",TCM
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/292
 
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Series",TNT
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://imgur.com/qixZwZh.png" group-title="Filmes e Séries",TNT
 http://s.pannel.net:80/1963509720/3613405410/401
 
-#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://imgur.com/liyih3y.png" group-title="Filmes e Series",TNT NOVELAS
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="https://imgur.com/liyih3y.png" group-title="Filmes e Séries",TNT NOVELAS
 https://cdn-1.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/qNrH4d4.png" group-title="Filmes e Series",TNT SÉRIES
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://imgur.com/qNrH4d4.png" group-title="Filmes e Séries",TNT SÉRIES
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="https://imgur.com/ubdABiE.png" group-title="Filmes e Series",USA
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://imgur.com/qDNYrvs.png" group-title="Filmes e Séries",UNIVERSAL TV
+http://s.pannel.net:80/1963509720/3613405410/422
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="https://imgur.com/ubdABiE.png" group-title="Filmes e Séries",USA
 http://s.pannel.net:80/1963509720/3613405410/363
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://imgur.com/I8CHVto.png" group-title="Filmes e Séries",WARNER CHANNEL
+http://s.pannel.net:80/1963509720/3613405410/431
 
 ################# VARIEDADES ############################
 
