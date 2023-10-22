@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Band SP HD" tvg-logo="https://imgur.com/pgUS4bP.png" group-title="Abertos",BAND
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ/index.m3u8
 
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="Abertos",GLOBO BAHIA
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-logo="https://imgur.com/VUM80xJ.png" group-title="Abertos",GLOBO BAHIA
 http://main.xplus2-main.xyz:2095/Tourobox1-KDUHbGtNff/C3M8rKLM04/488
 
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="Abertos",GLOBO SP
