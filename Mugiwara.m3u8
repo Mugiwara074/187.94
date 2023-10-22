@@ -31,7 +31,7 @@ https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:-1 tvg-id="CNN Brasil HD" tvg-logo="https://imgur.com/yvXclpa.png" group-title="Noticias",CNN BRASIL
 https://cdn-1.nxplay.com.br/CNN_Brazil_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN En Español" tvg-logo="https://imgur.com/TMQmm6d.png" group-title="Noticias",CNN EN ESPAÑOL
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-logo="https://imgur.com/TMQmm6d.png" group-title="Noticias",CNN EN ESPAÑOL
 http://mn.appserv19.xyz:2095/Xplus-1-OKxEYWkgbv/ocHPNDsd3f/436
 
 #EXTINF:-1 tvg-id="Cnninternacional.br" tvg-logo="https://imgur.com/rUPKIRh.png" group-title="Noticias",CNN INTERNACIONAL
